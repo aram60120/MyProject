@@ -13,6 +13,6 @@ public class Student {
 	@GeneratedValue(generator = "increment")
 	private Integer id;
 	private String name;
-	private String sfee;
+	private String sfaa;
 
 }
